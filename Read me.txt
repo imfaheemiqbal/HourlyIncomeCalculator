@@ -1,0 +1,26 @@
+A simple hourly income calculator that estimates weekly, monthly, and yearly earnings based on hourly rate and work hours per week.
+
+
+# Hourly Income Calculator
+
+A simple web-based calculator that helps freelancers and job seekers estimate their earnings.
+
+## Features
+
+- Enter hourly rate ($)
+- Custom hours per week
+- Automatic weekly income calculation
+- Automatic monthly income calculation
+- Automatic yearly income calculation
+- Dark Mode / Light Mode
+- Mobile-friendly design
+
+## Usage
+
+1. Enter your hourly rate.
+2. Enter hours worked per week.
+3. View weekly, monthly, and yearly earnings instantly.
+
+## Live Demo
+
+Coming soon...
