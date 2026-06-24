@@ -97,10 +97,10 @@ input{
 
 <div class="container">
 
-<h1>?? Hourly Income Calculator</h1>
+<h1>Hourly Income Calculator</h1>
 
 <button class="toggle-btn" onclick="toggleTheme()">
-?? Dark / ?? Light Mode
+ Dark /  Light Mode
 </button>
 
 <div class="card">
